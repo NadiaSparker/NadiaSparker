@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NadiaSparker
-- 👀 I’m interested in CyberLeaks
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on OSINT project
+- 👀 I’m interested in Blockchain Analysis
+- 🌱 I’m currently learning C# with Microsoft
+- 💞️ I’m looking to collaborate on Blockchain OSINT
 - 📫 How to reach me [coming soon]
 - ⚡ Fun fact: Google Dorking has led to the discovery of some significant security vulnerabilities and data breaches.
 
