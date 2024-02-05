@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NadiaSparker
+- 👋 Hi, I’m @NadiaSparker newbie on github
 - 👀 I’m interested in Blockchain Analysis
 - 🌱 I’m currently learning C# with Microsoft
 - 💞️ I’m looking to collaborate on Blockchain OSINT
